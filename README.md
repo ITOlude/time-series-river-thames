@@ -1,7 +1,9 @@
-# Forecasting Employer Paid Compensation & Benefits
+# Time Series Analysis - River Thames Water Levels 
 
-#### This project explores projected labor costs as headcount and an organization grow. Labor costs represent a significant portion of total spend. The ability to project payroll on a granular level can be a powerful way to reduce ambiguity in human capital budgeting. We will look at spend projections as well as how benefits have evolved for employees during and after the COVID pandemic in the modern age of remote work.
+#### This is a replicated project from the Datacamp platform  
 
-###### Benefits of Employer Cost of Labor forecasting:
-Gain accurate visibility into runway with cash and financing.<p>Improve planning accuracy by increasing accurate payroll projections.<p>Help the organization stay within budget to preserve the company’s financial health and longetivity.<p>Gain visibility into true costs of an employee or potential hire.
+Time series data is everywhere, from watching your stock portfolio to monitoring climate change, and even live-tracking as local cases of a virus become a global pandemic. In this project, I work with a time series that tracks tide levels of the Thames River, generate summary statistics and deep dive into the time series component attributes. 
+
+###### Dataset and further reading
+The original dataset is available from the British Oceanographic Data Center [here](https://www.bodc.ac.uk/data/published_data_library/catalogue/10.5285/b66afb2c-cd53-7de9-e053-6c86abc0d251) and you can read about the archival story in [this article](https://www.nature.com/articles/s41597-022-01223-7) from the Nature journal.
 
